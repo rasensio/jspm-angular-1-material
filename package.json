@@ -1,0 +1,26 @@
+{
+  "jspm": {
+    "dependencies": {
+      "angular": "github:angular/bower-angular@^1.5.8",
+      "angular-cookies": "github:angular/bower-angular-cookies@^1.5.8",
+      "angular-route": "github:angular/bower-angular-route@^1.5.8",
+      "angular-sanitize": "github:angular/bower-angular-sanitize@^1.5.8",
+      "angularjs": "npm:angularjs@^0.0.1",
+      "bootstrap": "github:twbs/bootstrap@3",
+      "bootstrap-material-design": "npm:bootstrap-material-design@^0.5.10",
+      "css": "github:systemjs/plugin-css@^0.1.32",
+      "font-awesome": "npm:font-awesome@^4.7.0",
+      "jquery": "npm:jquery@1.9.1",
+      "ngalertify": "npm:ngalertify@^1.0.2"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.48",
+    "lite-server": "^2.2.2"
+  }
+}
